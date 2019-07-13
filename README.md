@@ -25,7 +25,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 * [ ] Open your terminal and navigate to your preprocessing project by using the `cd` command
 
-* [ ] Once in your project's root folder, run the following command `less-watch-compiler less css index.less`
+* [ ] Once in your project's root folder, run the following command ``less-watch-compiler less css index.less
 
 * [ ] Verify your compiler is working correctly by changing the `background-color` on the `html` selector to `red` in your `index.less` file.
 
@@ -34,11 +34,11 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 ## Task 2: Create Unique Event Listeners
 
 * [ ] Using your [index.js file](js/index.js), create 10 [unique event listeners](https://developer.mozilla.org/en-US/docs/Web/Events). using your creativity to make the Fun Bus site more interactive.  Here are some unique events you could try to use: 
-	* [ ] `mouseover`
+	* [X] `mouseover`
 	* [ ] `keydown`
-	* [ ] `wheel`
+	* [X] `wheel`
 	* [ ] `drag / drop`
-	* [ ] `load`
+	* [X] `load`
 	* [ ] `focus`
 	* [ ] `resize`
 	* [ ] `scroll`
@@ -57,3 +57,5 @@ Using the 10 unique events, find ways to update the DOM in creative ways. For ex
 ## Stretch assignment
 
 * [ ] Take a look at the [stretch assignment](stretch-assignment) and follow the instructions in the read me file.
+
+nm
