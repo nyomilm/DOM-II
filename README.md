@@ -25,7 +25,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 * [ ] Open your terminal and navigate to your preprocessing project by using the `cd` command
 
-* [ ] Once in your project's root folder, run the following command `less-watch-compiler less css index.less`
+* [ ] Once in your project's root folder, run the following command ``less-watch-compiler less css index.less
 
 * [ ] Verify your compiler is working correctly by changing the `background-color` on the `html` selector to `red` in your `index.less` file.
 
@@ -38,7 +38,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 	* [ ] `keydown`
 	* [X] `wheel`
 	* [ ] `drag / drop`
-	* [ ] `load`
+	* [X] `load`
 	* [ ] `focus`
 	* [ ] `resize`
 	* [ ] `scroll`
